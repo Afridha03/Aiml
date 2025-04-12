@@ -1,2 +1,0 @@
-# Aiml
-Book recommendations system
